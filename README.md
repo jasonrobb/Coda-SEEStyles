@@ -9,19 +9,19 @@ Invisible character color: #212222
 # Screenshots
 
 HTML  
-![HTML example](https://github.com/jasonrobb/Coda-SEEStyles/blob/master/html.example.png?raw=true)  
+![HTML example](https://github.com/jasonrobb/Coda-SEEStyles/blob/master/examples/html.example.png?raw=true)  
 
 CSS  
-![CSS example](https://github.com/jasonrobb/Coda-SEEStyles/blob/master/css.example.png?raw=true)  
+![CSS example](https://github.com/jasonrobb/Coda-SEEStyles/blob/master/examples/css.example.png?raw=true)  
 
 LessCSS  
-![LessCSS example](https://github.com/jasonrobb/Coda-SEEStyles/blob/master/lesscss.example.png?raw=true)  
+![LessCSS example](https://github.com/jasonrobb/Coda-SEEStyles/blob/master/examples/lesscss.example.png?raw=true)  
 
 Javascript  
-![Javascript example](https://github.com/jasonrobb/Coda-SEEStyles/blob/master/js.example.png?raw=true)  
+![Javascript example](https://github.com/jasonrobb/Coda-SEEStyles/blob/master/examples/js.example.png?raw=true)  
 
 PHP  
-![PHP example](https://github.com/jasonrobb/Coda-SEEStyles/blob/master/php.example.png?raw=true)  
+![PHP example](https://github.com/jasonrobb/Coda-SEEStyles/blob/master/examples/php.example.png?raw=true)  
 
 # LESS.mode for LessCSS
 
